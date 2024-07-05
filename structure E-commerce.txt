@@ -1,0 +1,24 @@
+-Product Module
+
+    Components :
+ 	- All-Products
+	- Products-Details
+    Services :
+	- product-service
+
+
+-Carts Module
+
+    Components :
+ 	- Cart
+    Services :
+	- cart-service
+
+
+-Shared Module
+
+    Components :
+ 	- Navbar
+	- Select
+    Services :
+	- 
